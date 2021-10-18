@@ -1,0 +1,8 @@
+1;Divine Comedy;Dante Alighieri;Johann Numeister;1472;512;57
+2;Digital Fortress;Dan Brown;Simon & Schuster;1998;480;315
+3;The Alchemist;Paulo Coelho;Pocket Books;1988;288;88
+4;Think and Grow Rich;Napoleon Hill;The Ralston Society;1937;238;99
+5;99 Francs;Frederic Beigbeder;Pocket Books;2000;282;60
+6;The Physician;Noah Gordon;Simon & Schuster;1986;816;365
+7;Angels & Demons;Dan Brown;Pocket Books;2000;616;199
+8;The Da Vinci Code;Dan Brown;Pocket Books;2003;689;130
